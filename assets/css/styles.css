@@ -40,7 +40,6 @@ body {
   padding-left: var(--gutter);
   margin-right: auto;
   margin-left: auto;
-  overflow: hidden;
 }
 .header {
   z-index: 9999;
