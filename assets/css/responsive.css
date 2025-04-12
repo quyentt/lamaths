@@ -37,7 +37,7 @@
 @media (max-width: 1440px) {
   .header-menu-wrap {
     position: fixed;
-    top: -105vh;
+    top: -150vh;
     left: 0;
     background: rgba(225, 225, 225, 1);
     backdrop-filter: blur(10px);
