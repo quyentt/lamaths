@@ -1032,6 +1032,9 @@ img {
   background-position: center;
   padding: 40px 0;
 }
+.page-header.page-header-detail {
+  background: url("../images/page-header-detail-bg.png");
+}
 .page-breadecumb ul {
   display: flex;
   align-items: center;
