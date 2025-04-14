@@ -991,13 +991,16 @@ img {
 }
 .footer .title {
   color: #1f1a17;
-  font-size: 18px;
   font-weight: 700;
   line-height: 22px;
   text-transform: uppercase;
   margin-bottom: 16px;
   white-space: nowrap;
 }
+.footer .address .title {
+  font-size: 18px;
+}
+
 .f-tree a .list-style {
   width: 4px;
   height: 4px;
