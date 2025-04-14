@@ -1,3 +1,16 @@
+@media (min-width: 1025px) {
+  .alert-news:first-child {
+    flex-direction: column;
+  }
+  .alert-news:first-child .image {
+    width: 100%;
+    aspect-ratio: 9/6;
+  }
+  .alert-news:first-child .al-title {
+    font-weight: bold;
+  }
+}
+
 @media (min-width: 1441px) and (max-width: 1600px) {
   .header-search {
     position: relative;
@@ -91,6 +104,10 @@
   }
 }
 @media (max-width: 1024px) {
+  .alert-news .image {
+    width: 30%;
+    aspect-ratio: 9/6;
+  }
   .footer-top img {
     display: none;
   }
